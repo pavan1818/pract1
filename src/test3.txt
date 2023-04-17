@@ -1,0 +1,3 @@
+file3 for stash
+check
+check2
